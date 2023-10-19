@@ -48,7 +48,7 @@ public class DispenserBlockMixin {
         // This can't be a property because the item registry complains for som reason.
         Item[] pattern = {
                 Items.AIR,            Items.AMETHYST_SHARD, Items.AIR,
-                Items.AMETHYST_SHARD, Items.BEDROCK,      Items.AMETHYST_SHARD,
+                Items.AMETHYST_SHARD, Items.GLOWSTONE,      Items.AMETHYST_SHARD,
                 Items.AIR,            Items.AMETHYST_SHARD, Items.AIR
         };
 
